@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Case is Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Case is Passed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-09-30T09:57:51 IST" name="Suite" finished-at="2024-09-30T09:58:43 IST" duration-ms="52236">
+    <groups>
+    </groups>
+    <test started-at="2024-09-30T09:57:51 IST" name="Test" finished-at="2024-09-30T09:58:43 IST" duration-ms="52236">
+      <class name="HTestFile.HTC02_RegistrationPage">
+        <test-method is-config="true" signature="Launch()[pri:0, instance:HTestFile.HTC02_RegistrationPage@3232a28a]" started-at="2024-09-30T09:57:51 IST" name="Launch" finished-at="2024-09-30T09:57:57 IST" duration-ms="6293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method is-config="true" signature="Quit()[pri:0, instance:HTestFile.HTC02_RegistrationPage@3232a28a]" started-at="2024-09-30T09:57:57 IST" name="Quit" finished-at="2024-09-30T09:57:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit -->
+        <test-method signature="Registration()[pri:0, instance:HTestFile.HTC02_RegistrationPage@3232a28a]" started-at="2024-09-30T09:57:57 IST" name="Registration" finished-at="2024-09-30T09:58:19 IST" duration-ms="21494" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case is Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Registration -->
+      </class> <!-- HTestFile.HTC02_RegistrationPage -->
+      <class name="HTestFile.HTC01_Loginpage">
+        <test-method is-config="true" signature="Launch()[pri:0, instance:HTestFile.HTC01_Loginpage@3e11f9e9]" started-at="2024-09-30T09:58:19 IST" name="Launch" finished-at="2024-09-30T09:58:40 IST" duration-ms="21542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method is-config="true" signature="Quit()[pri:0, instance:HTestFile.HTC01_Loginpage@3e11f9e9]" started-at="2024-09-30T09:58:40 IST" name="Quit" finished-at="2024-09-30T09:58:40 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit -->
+        <test-method signature="login()[pri:0, instance:HTestFile.HTC01_Loginpage@3e11f9e9]" started-at="2024-09-30T09:58:40 IST" name="login" finished-at="2024-09-30T09:58:42 IST" duration-ms="1959" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case is Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- HTestFile.HTC01_Loginpage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
